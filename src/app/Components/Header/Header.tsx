@@ -25,7 +25,7 @@ export default function Header() {
               </a>
               <a
                 href="/"
-                className="font-bold  text-xl text-black hover:bg-black hover:text-white rounded-lg p-2 "
+                className="font-bold text-xl text-black hover:bg-black hover:text-white rounded-lg p-2"
               >
                 Connect
               </a>
