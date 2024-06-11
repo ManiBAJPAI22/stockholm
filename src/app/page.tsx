@@ -2,8 +2,8 @@
 
 import { useEffect, useState } from "react";
 import Spline from "@splinetool/react-Spline";
-import Header from "./Components/Header/Header";
-import LoadingScreen from "./Components/Loading/LoadingScreen";
+import Header from "./Pages/Header/Header";
+import LoadingScreen from "./Pages/Loading/LoadingScreen";
 
 export default function Home() {
   const [loading, setLoading] = useState(true);
